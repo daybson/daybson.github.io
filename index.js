@@ -1,3 +1,3 @@
-var $paragrahp = document.querySelector('p')
+var $paragraph = document.querySelector('p')
 
-$paragrahp.textContent = 'Olá Mundo!'
+$paragraph.textContent = 'Olá'
